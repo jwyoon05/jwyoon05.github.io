@@ -23,7 +23,7 @@ repository               : "jwyoon05/jwyoon05.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Jaewon_Yoon.jpg"
   name             : "Jaewon Yoon"
   pronouns         : "he/him"  
   bio              : "Undergraduate student working on computational biology"
