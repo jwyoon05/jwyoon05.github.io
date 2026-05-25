@@ -8,6 +8,8 @@ excerpt: 'Folddisco is a tool for searching discontinuous motifs in protein stru
 date: 2026-05-05
 venue: 'Nature Biotechnology (In Press)'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+githuburl: 'https://github.com/steineggerlab/folddisco'
+serverurl: 'https://search.foldseek.com/folddisco'
 citation: 'Kim, H., Kim, R.S., Mirdita, M., Yoon, J., Steinegger, M. (2026). Structural motif search across the protein-universe
 with Folddisco, doi: 10.1101/2025.07.06.663357'
 ---
