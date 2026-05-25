@@ -2,7 +2,7 @@
 title: "Structural motif search across the protein-universe with Folddisco"
 collection: publications
 category: manuscripts
-permalink: /publication/Folddisco
+permalink: https://www.biorxiv.org/content/10.1101/2025.07.06.663357v2
 excerpt: 'Detecting similar protein structural motifs in large structure collections is computationally expensive. We developed Folddisco, a fast structural
 motif search tool that uses an index of position-independent geometric features, including side-chain orientation, combined with a rarity-based
 scoring system. Folddisco is 20-fold faster in querying and fourfold more storage-efficient than existing methods while improving accuracy. Folddisco
