@@ -2,7 +2,8 @@
 title: "Structural motif search across the protein-universe with Folddisco"
 collection: publications
 category: manuscripts
-permalink: https://www.biorxiv.org/content/10.1101/2025.07.06.663357v2
+permalink: /publications/2026-05-05-folddisco  # 내부 주소 체계 유지용 (기본값)
+redirect_to: https://www.biorxiv.org/content/10.1101/2025.07.06.663357v2  # 클릭 시 바로 이동할 링크
 excerpt: 'Folddisco is a software for searching protein motifs among protein structure databases. Software is freely available online (https://folddisco.foldseek.com), along with a webserver (https://search.foldseek.com/folddisco).'
 date: 2026-05-05
 venue: 'Nature Biotechnology (In Press)'
