@@ -26,7 +26,7 @@ author:
   avatar           : "Jaewon_Yoon.jpg"
   name             : "Jaewon Yoon"
   pronouns         : "he/him"  
-  bio              : "Undergraduate student @ Steinegger Lab"
+  bio              : "Undergraduate student"\n "@ Steinegger Lab"
   location         : "Seoul, Korea"
   employer         : "Seoul National University"
   uri              : # URL
