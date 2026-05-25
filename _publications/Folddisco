@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/2026-05-05-folddisco  # 내부 주소 체계 유지용 (기본값)
 link: https://www.biorxiv.org/content/10.1101/2025.07.06.663357v2
-excerpt: 'Folddisco is a tool for searching discontinuous motifs in protein structures. It is designed to handle large-scale protein databases with efficiency, enabling the detection of structural motifs across thousands of proteomes or millions of structures.
+excerpt: 'Folddisco is a tool for searching discontinuous motifs in protein structures. It is designed to handle large-scale protein databases with efficiency, enabling the detection of structural motifs across thousands of proteomes or millions of structures.'
 date: 2026-05-05
 venue: 'Nature Biotechnology (In Press)'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
