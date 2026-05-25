@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jaewon Yoon / Homepage"
+title                    : "Jaewon Yoon"
 title_separator          : "-"
 name                     : &name "Jaewon Yoon"
 description              : &description "Jaewon's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "Jaewon_Yoon.jpg"
   name             : "Jaewon Yoon"
   pronouns         : "he/him"  
-  bio              : "Undergraduate student working on computational biology"
+  bio              : "Undergraduate student @ Steinegger Lab"
   location         : "Seoul, Korea"
   employer         : "Seoul National University"
   uri              : # URL
@@ -125,7 +125,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
