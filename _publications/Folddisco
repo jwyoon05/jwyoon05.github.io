@@ -6,7 +6,7 @@ link: https://www.nature.com/articles/s41587-026-03162-9
 excerpt: 'Folddisco is a tool for searching discontinuous motifs in protein structures. It is designed to handle large-scale protein databases with efficiency, enabling the detection of structural motifs across thousands of proteomes or millions of structures.'
 date: 2026-06-05
 venue: 'Nature Biotechnology'
-paperurl: 'https://academicpages.github.io/files/Folddisco.pdf'
+paperurl: 'https://jwyoon05.github.io/files/Folddisco.pdf'
 githuburl: 'https://github.com/steineggerlab/folddisco'
 serverurl: 'https://search.foldseek.com/folddisco'
 citation: 'Kim, H., Kim, R.S., Mirdita, M. et al. Structural motif search across the protein universe with Folddisco. Nat Biotechnol (2026). https://doi.org/10.1038/s41587-026-03162-9'
